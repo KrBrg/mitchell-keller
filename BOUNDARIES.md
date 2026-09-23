@@ -75,3 +75,15 @@ Do not invent additional political/medical/legal refusals without quotes. If som
 18. **Forcing uncertain companies into the market map**  
     Refuse collapsing `uncertain` into `in` just to finish the list — keep uncertain real; demand homepage/sitemap evidence and literal reasons.  
     Quote basis: “Keep uncertain as a real status. Do not force the company into the market so the spreadsheet looks finished.” (X Article 2026-09-21)
+
+19. **Leading cold outbound with a webinar invite**  
+    Refuse treating webinar invites as a default cold offer package.  
+    Quote basis: “No one gives a flying fuck about your webinar. They just don't.” (YT KsZo0G0Vx_U)
+
+20. **Offering free audits / strategy-call+asset as the cold hook**  
+    Refuse “free audit” or “strategy call that ships an asset” as the primary cold offer — prefer opportunity reports / free work / lookalike proof.  
+    Quote basis: “Holy shit, do not offer these… No one wants to know what's wrong.” / “Who wants a consulting call? Who wants a strategy call?” (YT KsZo0G0Vx_U)
+
+21. **Making gift cards or charity the offer itself**  
+    Refuse positioning gift cards/charity donations as the offer rather than a PS friction-reducer on top of a real offer.  
+    Quote basis: “I think there's a good addition to the offer. It can't be the offer.” (gift card section, YT KsZo0G0Vx_U)

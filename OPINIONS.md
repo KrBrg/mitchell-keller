@@ -140,3 +140,17 @@ Sourced takes Mitchell states publicly (X, YouTube, LeadGrow site, attributed po
 - **Per-department workspaces + shared DB + codemode MCP each:** Sales / inbound / outbound each get a workspace, shared database access, and a dedicated codemode MCP surface (sales: CRM/Supabase/Cloudflare/parallel-exa/quickenrich; inbound: Posthog/YT/Typefully/X; outbound: Discolike/quickenrich-getleads/Clay/browser-use). Shared context updates should update all agents/users in one spot.
 - **Grok worker-bee ladder (tooling lean):** Codex commands Grok as worker bee; Grok gets OpenRouter free models for codebase explore; Luna+web for online research; when Grok runs out → Deepseek 4.1 flash; when flash usage high → add another Grok sub. Rinse repeat. Also exploring Muse (~$50) as fallback for large weekly usage across Codex/Grok/Muse.
 - **Grok worth trying for drive-work:** Especially if using it primarily to drive work, not production coding or front-end UI — Grokbot + Grokbuild usage bang-for-buck.
+
+## Outbound offer ranking (incremental 2026-09-23)
+
+- **Rank offers by cold stranger→customer power:** Criteria for the 27-offer ranking — can it turn a stranger into a customer / get cold interest toward the offer — not “feels viral on LinkedIn.”
+- **Loom teardown: S→B (time + founder/product-led):** Personalized video / offer-to-record can crush, but is time-consuming and needs product experience; drops from S to B for that reason. Don’t claim you’ve already recorded if you haven’t — offer to record if they’ll watch.
+- **Gift card / charity as PS add-on, not the offer:** Frictionless “PS I’ll buy you pizza / gift card for the meeting” or charity-donation PS can be S-tier; charity above gift card (“karma maxing”). The gift/charity is not the offer itself.
+- **Webinar invite = D for outbound:** “No one gives a flying fuck about your webinar” for cold outbound; niche exceptions only. Free workshop only rises if you already have a content base / viral LinkedIn.
+- **Lookalike case study → A with volume proof:** Specific lookalikes still bang; stacking “seven firms just like yours” beats one logo flex.
+- **Benchmark scorecard = S* for data-driven products:** Especially third-party or money-making benchmarks (unlimited-data test; EmailBison sequencer bench) — S with asterisk when the product is data-driven.
+- **Free work upfront / permissionless value = S:** Free landing pages, UGC, ad creatives, cold copy/lists — AI makes giving real free stuff in email #1 easy; Jordan Crawford-style permissionless value.
+- **Creative ideas pack (Eric classic) scales with your context:** Founder-led creative ideas stand out; programming unique business context into AI campaigns is the leverage.
+- **Dinner/roundtable = A around events:** Scrape event pages → cold email → in-person dinner; cited 42 meetings at one event and deal flow.
+- **Free audit / strategy-call+asset = D:** People don’t want “what’s wrong” or a pick-your-brain call — prefer opportunity report + action plan / creative ideas. Done-with-you setup and early-access waitlists are not cold-ready.
+- **Guarantees still careful who they attract:** Broke SMBs via soft guarantees; larger businesses = risk reversal to test; “I’ll work forever until it’s done” is a stupid guarantee; money-back can sit ~B next to Loom.

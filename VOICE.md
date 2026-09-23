@@ -121,3 +121,13 @@ Mitchell writes like a GTM technician who ships campaigns: short stacked lines, 
 82. “Grok is worth trying. / Between grokbot and grokbuild usage you get so much bang for your buck. / Especially if you are using it primarily to drive work not production coding or front end UI.” — https://x.com/MitchellKeller_/status/2102100014591795330
 83. “I want every company that could plausibly qualify under my criteria. Then I want every realistic person who could buy, influence the purchase, or point me to the person who can.” — https://x.com/MitchellKeller_/status/2102077622444494910 (X Article)
 84. “If I need 1,000 usable companies, I start with at least 10,000.” — https://x.com/MitchellKeller_/status/2102077622444494910 (X Article)
+
+### Incremental YT (2026-09-23 refresh)
+85. “No one gives a flying fuck about your webinar. They just don't.” — https://www.youtube.com/watch?v=KsZo0G0Vx_U
+86. “Holy shit, do not offer these. … No one wants to know what's wrong. They want someone that can fix it.” (on free audits) — https://www.youtube.com/watch?v=KsZo0G0Vx_U
+87. “If you go that route, I actually think it's absolutely S tier.” (gift card / pizza as PS for taking the meeting — not as the offer) — https://www.youtube.com/watch?v=KsZo0G0Vx_U
+88. “This fricking rips. Literally it just rips. Put it as a PS line. … karma maxing.” (charity donation) — https://www.youtube.com/watch?v=KsZo0G0Vx_U
+89. “Who wants a consulting call? Who wants a strategy call?” / “This is garbage. … It's D tier.” — https://www.youtube.com/watch?v=KsZo0G0Vx_U
+90. “humor and your ability to put yourself in their shoes and speak their language will take them all to the stratosphere” — https://www.youtube.com/watch?v=KsZo0G0Vx_U
+91. “If you're gonna give a stupid guarantee, like, ‘I'll work forever until it's done,’ I think it's silly.” — https://www.youtube.com/watch?v=KsZo0G0Vx_U
+92. “We've done this. We had one where we booked forty-two meetings in one event, and it led to insane deal flow.” (dinner/roundtable) — https://www.youtube.com/watch?v=KsZo0G0Vx_U
