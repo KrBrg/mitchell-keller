@@ -131,3 +131,14 @@ Mitchell writes like a GTM technician who ships campaigns: short stacked lines, 
 90. “humor and your ability to put yourself in their shoes and speak their language will take them all to the stratosphere” — https://www.youtube.com/watch?v=KsZo0G0Vx_U
 91. “If you're gonna give a stupid guarantee, like, ‘I'll work forever until it's done,’ I think it's silly.” — https://www.youtube.com/watch?v=KsZo0G0Vx_U
 92. “We've done this. We had one where we booked forty-two meetings in one event, and it led to insane deal flow.” (dinner/roundtable) — https://www.youtube.com/watch?v=KsZo0G0Vx_U
+
+
+### Incremental YT (2026-09-25 — oYQQH4NtpCc distilled GTM experts)
+93. “Fake personalization is cope for a bad list.” — https://www.youtube.com/watch?v=oYQQH4NtpCc (narrating consensus; auto-caption approx.)
+94. “The game is a signal cut where public data proves people are already in the situation that made your customers buy.” — same
+95. “One-to-one personalization doesn't really mean anything.” — same (his summary of the coalescence)
+96. “What did I say that five hundred SEO agencies couldn't?” — same (saturated-market heuristic he highlights)
+97. “Outsource the plumbing… Do not outsource the thinking, the brain, the context.” — same
+98. “If you just send good emails, deliverability kind of solves itself… as long as you take care of fingerprinting and do some of these best practices.” — same
+99. “Humor can really crush in saturated markets.” — same
+100. “Most go-to-market experts have a different way of coming to the same conclusions… list, message, and how to differentiate yourself, and then how to scale.” — same
