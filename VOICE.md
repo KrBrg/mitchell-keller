@@ -142,3 +142,10 @@ Mitchell writes like a GTM technician who ships campaigns: short stacked lines, 
 98. “If you just send good emails, deliverability kind of solves itself… as long as you take care of fingerprinting and do some of these best practices.” — same
 99. “Humor can really crush in saturated markets.” — same
 100. “Most go-to-market experts have a different way of coming to the same conclusions… list, message, and how to differentiate yourself, and then how to scale.” — same
+
+
+### Incremental YT body upgrade (2026-09-28 — cV_r1VZ5ivY)
+101. “I think it's the most paradigm shifting thing since opus 4.5, especially for Go To Market engineering” — https://www.youtube.com/watch?v=cV_r1VZ5ivY (auto-caption approx.)
+102. “with verifiable reward systems, models have a tendency towards hallucinating, especially when they believe it will please the user.” — same
+103. “Go To Market Engineering is a string of judgment and tasteful decisions from outbound to product to anything in between.” — same
+104. “let's do a fricking satellite image… if it's parking lot is over… 100 spaces, they are now size qualified.” — same (LinkedIn-dark manufacturer routing example)

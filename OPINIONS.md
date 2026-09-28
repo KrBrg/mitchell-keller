@@ -168,3 +168,12 @@ Mitchell hosted a first-party experiment locking distilled versions of Jordan Cr
 - **Deliverability at volume:** List hygiene before reputation; reverse-engineer healthy sending from Google docs; double capacity / warm-up; satellite domains; burn rules; real cold stack not HubSpot-as-cold. If you send good emails into a right cut, deliverability mostly solves itself after fingerprinting/basics.
 - **Humor / pattern interrupts in saturated markets:** He adds that humor can crush when everyone sounds the same; cites Kellen-style gimmicks (e.g. “sent from Neuralink beta trial”) as difference-makers — gimmick acknowledged, still useful.
 - **Distill Anyone as operator tooling:** Publicly ships / links his adapted Distill Anyone (Kunchen workflow) for GroqBot; enjoys distilled Cole/Hormozi arguing as consultants — tooling preference, not a claim the bots are the real people.
+
+
+## Jev intro YT body (upgraded 2026-09-28 — cV_r1VZ5ivY)
+
+First-party walkthrough body fetched 2026-09-28 (was description stub). Auto-caption approx.; expands the 2026-09-18 decision-layer section with the “why” framing and one vivid routing example.
+
+- **Verifiable rewards vs calibrated honesty:** Positions existing LLMs as trained on verifiable rewards that push hallucination when it will please the user (“task by any means necessary”). Jev instead reinforces calibrated decisions / “honest probabilities” on questions that should have answers, with answers calibrated from user inputs / a system-prompt decision framework.
+- **GTM engineering = judgment string:** “Go To Market Engineering is a string of judgment and tasteful decisions from outbound to product to anything in between” — the decision layer surrounds agentic workflows so micro-decisions that are too slow/hallucination-prone for LLMs can still run in production.
+- **LinkedIn-dark lead routing (example):** Manufacturer / smokestack factories that are inactive on LinkedIn break size-focused lead scoring; route via judgment (e.g. satellite/parking-lot size gate, then funding/type trees) instead of LinkedIn activity proxies.
