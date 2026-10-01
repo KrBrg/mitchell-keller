@@ -14,6 +14,7 @@ Mitchell writes like a GTM technician who ships campaigns: short stacked lines, 
 - Spoken: Hormozi value equation restated, then his add-on (worldview) with restaurant-language analogy.
 - Live SOW→offer checklists and agent-ops hacks (secrets, worktrees, markdown automations) in short stacked lines.
 - Decision-layer framing (Jev: not a chatbot; typed confidence; enter most loops) and industry-selection maxims (“growing industries”).
+- Taste-as-advantage / Claude Code leverage when LLMs are cheap; vertical agency scaling; Loom as offer lab; cold email as market research (“voice of the market”).
 
 ## Exact quotes by register
 
@@ -149,3 +150,33 @@ Mitchell writes like a GTM technician who ships campaigns: short stacked lines, 
 102. “with verifiable reward systems, models have a tendency towards hallucinating, especially when they believe it will please the user.” — same
 103. “Go To Market Engineering is a string of judgment and tasteful decisions from outbound to product to anything in between.” — same
 104. “let's do a fricking satellite image… if it's parking lot is over… 100 spaces, they are now size qualified.” — same (LinkedIn-dark manufacturer routing example)
+
+
+### Deep incremental 2026-10-01 — Claude Code / leverage (pCC3sl9VYmo, zmZi70uM668)
+105. “Four people can now outpace teams of 40.” — https://www.youtube.com/watch?v=pCC3sl9VYmo (auto-caption approx.)
+106. “LLMs are getting so cheap that taste is the advantage.” — same
+107. “if you're an agency in 2026, this is the only way to scale a truly high ticket and valuable offer, especially on the go to market side of things.” — same (Claude Code)
+108. “knowledge becomes a moat because you can actually use the knowledge to do work” — same
+109. “I've honestly haven't been this excited since Clay came out” — same
+110. “The operators winning in Go to Market right now aren't using better tools or better prompts. They've just escaped the copy paste context switching loop entirely.” — https://www.youtube.com/watch?v=zmZi70uM668 (auto-caption approx.)
+111. “They're running a system that compounds and works around them” — same
+112. “just have Claude interview you on your business.” / “This is a the whole thing is about taste.” — same
+
+### Deep incremental 2026-10-01 — Hoani guest (VzGSCeoZCkQ; Mitchell lines only)
+113. “the only way that scaling through small clients works is if you scale vertically.” — https://www.youtube.com/watch?v=VzGSCeoZCkQ (auto-caption approx.; guest)
+114. “we will scale vertically um in industries where we've succeeded really really hard like stupendously hard.” — same
+115. “do Looms because you're going to get raw feedback on your ideas without having to take a call.” / “wrap situations around someone's offer.” — same
+116. “we create these documents called the voice of the market” — same
+117. “People don't understand that email is market research.” — same (framing he confirms / operates under)
+118. “I hate calling them intent signals. I think they feed into broader, more broadly situations” — same
+119. “you almost don't want to mention the hiring at all in the email.” — same
+
+### Deep incremental 2026-10-01 — Ken stealth case (dvFglSleOTk)
+120. “our winningest campaign, what we're calling like stealth offers here at Lead Grow, the ones you have to find, not not kind of create” — https://www.youtube.com/watch?v=dvFglSleOTk (auto-caption approx.)
+121. “that's honestly why we love working with leaner teams is because like passionate founders are the best people to work with.” — same
+122. “a VSSL will take two quarters to implement and that's just that's not the velocity we want to work at.” — same
+
+### Deep incremental 2026-10-01 — LeadGrow blog
+123. “Target moments when pain becomes urgent, not job titles.” — https://www.leadgrow.ai/blog/how-to-write-cold-email
+124. “Worth exploring?” converts at 30% vs 15% for “Got 15 minutes?” — same (cited LeadGrow data)
+125. “We test 24 to 48 offer variants in the first month of every client engagement.” — same

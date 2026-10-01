@@ -1,6 +1,6 @@
 # OPINIONS
 
-Sourced takes Mitchell states publicly (X, YouTube, LeadGrow site, attributed podcast). Prefer these when answering about offers, outbound agency GTM, cold email, situations/stealth offers, reverse risk, and agent-OS / Claude GTM. Each item is grounded in his public writing and speech. Auto-caption YT wording is approximate; prefer short exact excerpts already quoted.
+Sourced takes Mitchell states publicly (X, YouTube, LeadGrow site, attributed podcast). Prefer these when answering about offers, outbound agency GTM, cold email, situations/stealth offers, reverse risk, and agent-OS / Claude GTM. Each item is grounded in evidence.md. Auto-caption YT wording is approximate; prefer short exact excerpts already quoted.
 
 ## Offers (specific person / problem / method / believability)
 
@@ -177,3 +177,40 @@ First-party walkthrough body fetched 2026-09-28 (was description stub). Auto-cap
 - **Verifiable rewards vs calibrated honesty:** Positions existing LLMs as trained on verifiable rewards that push hallucination when it will please the user (“task by any means necessary”). Jev instead reinforces calibrated decisions / “honest probabilities” on questions that should have answers, with answers calibrated from user inputs / a system-prompt decision framework.
 - **GTM engineering = judgment string:** “Go To Market Engineering is a string of judgment and tasteful decisions from outbound to product to anything in between” — the decision layer surrounds agentic workflows so micro-decisions that are too slow/hallucination-prone for LLMs can still run in production.
 - **LinkedIn-dark lead routing (example):** Manufacturer / smokestack factories that are inactive on LinkedIn break size-focused lead scoring; route via judgment (e.g. satellite/parking-lot size gate, then funding/type trees) instead of LinkedIn activity proxies.
+
+
+## Claude Code leverage / taste moat (deep incremental 2026-10-01 — YT pCC3sl9VYmo + zmZi70uM668)
+
+First-party YouTube. Auto-caption wording approximate.
+
+- **Unite leverage in Claude Code:** Naval’s labor/capital/code + Hormozi’s content can sit in one place for the first time; GTM (and much of the business) should move there so systems feed each other. Capital becomes how much you pour into the working environment; LLMs getting cheap means **taste** is the advantage — taste informs code/content and can be shared collaboratively.
+- **Agency 2026 high-ticket GTM:** Positions Claude Code as the way to scale a truly high-ticket valuable GTM offer — centralize learning (GitHub, Supabase raw + human-readable data, EmailBison, Slack client interactions, ClickUp-as-CRM preference for fewer interfaces) so knowledge becomes a moat you can actually *use* to do work, not just store.
+- **Content ↔ outbound loop:** Customer-success Slack + outbound performance inform content; content informs outbound / lead magnets; inbound-led outbound; GitHub holds offer clarity. Don’t restart from scratch each new employee/client — onboarding wrapped in the system. “Haven’t been this excited since Clay.”
+- **Escape copy-paste context switching:** Operators winning GTM aren’t using better tools/prompts — they’ve escaped the copy-paste context-switching loop and run a system that compounds around them. Course framing: durable AI work, skills/systems multiplayer, companion repo; start by having Claude interview you on the business — “the whole thing is about taste”; prefers open Claude skills as reference not imitation.
+
+## Vertical agency scaling / Loom discovery / cold email as market research (deep incremental 2026-10-01 — guest YT VzGSCeoZCkQ)
+
+Guest on Hoani Taylor (2025-11-14). Auto-captions unlabeled — only lines that match Mitchell’s first-person LeadGrow ops / known doctrines below. Prefer these over host anecdotes.
+
+- **Scale vertically where you’ve already won:** Rule of thumb — scale vertically in industries you’ve succeeded “stupendously hard” (edtech example); can take smaller retainers there because market/work is already paid for; horizontal “service everyone cheaper” is how you get the reps, then verticalize.
+- **Loom as offer lab before discovery:** If figuring a market out, do Looms — raw feedback without taking a call; people tell you if you sound like an idiot; exercise wrapping **situations** around someone’s offer. Low-friction CTA (“mind if I send a Loom?”) calibrates interest; if 5k vague emails get zero positives, something’s wrong before you escalate to calls.
+- **Calibrate cold offer to sales process:** Cold email into discovery can’t be so far from how they sell that the client can’t close cold outbound (order-taking $299 ads vs multi-call discovery). Best case: angle tied to existing sales process; commodity offers force outbound further from point-of-sale and need real sales buy-in.
+- **Cold email = market research / interface with the cold market:** Clients who only know inbound misread “not qualified” — often it’s positioning/wrap miscommunication. LeadGrow “voice of the market” docs at **job-title level** (who resonates; bottom-up vs top-down; champions vs budget authorities). Stories of overnight 4× discovery / ~35% positive reply sell the research frame.
+- **Situations not “intent signals”:** Hates calling hiring/etc. intent signals — they feed broader situations; often **don’t mention the hiring** in the email at all (stand out by speaking the situation). Calling out weirdness / what people hate about saturated offers (e.g. ecom “three free ads”) as openers.
+- **Warm ICP profile visitors:** Tip — Loom everyone who visits your profile and meets ICP criteria (cites very high booking on that motion); cascade with triggers on influencers + vertical pocket campaigns; pick growing markets.
+
+## Stealth case / lean founders (deep incremental 2026-10-01 — YT dvFglSleOTk)
+
+First-party client interview (Ken / Launch Club Reddit marketing). Mitchell’s lines only.
+
+- **Stealth offers = find, not invent:** Winningest campaigns framed as stealth offers “you have to find, not create.” Zero→one stranger→customer; first closed deal ~8 days; holiday downsell offer as tested new angle.
+- **Prefer lean passionate founders:** Loves leaner teams — change velocity; contrasts multi-billion funded accounts where a VSSL can take two quarters.
+
+## LeadGrow blog cold-email playbook (deep incremental 2026-10-01 — leadgrow.ai/blog/how-to-write-cold-email)
+
+First-party attributed article (2026-03-11). Restates situations/stealth already on file; adds explicit testing numbers and CTA stats.
+
+- **30/67/3:** Ads/SEO fight the ~3% actively searching; cold email targets the ~30% who have the problem but aren’t searching yet — situation signals find them.
+- **Interest CTAs over meeting asks:** Data cited — interest CTAs (“Worth exploring?”) convert ~30% vs ~15% for meeting CTAs (“Got 15 minutes?”); still test per market.
+- **24–48 offer variants in month one:** Not subject-line spam — different frames/situations/entry points; winning frame often isn’t the client’s expected lead (e.g. SOC 2 pass vs “prevent breaches”).
+- **3-line cold email (≈30–70 words):** Situation recognition → value+proof → interest CTA; three cutting passes (fluff / compress / kill adjectives).
