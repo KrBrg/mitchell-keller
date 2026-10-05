@@ -214,3 +214,14 @@ First-party attributed article (2026-03-11). Restates situations/stealth already
 - **Interest CTAs over meeting asks:** Data cited — interest CTAs (“Worth exploring?”) convert ~30% vs ~15% for meeting CTAs (“Got 15 minutes?”); still test per market.
 - **24–48 offer variants in month one:** Not subject-line spam — different frames/situations/entry points; winning frame often isn’t the client’s expected lead (e.g. SOC 2 pass vs “prevent breaches”).
 - **3-line cold email (≈30–70 words):** Situation recognition → value+proof → interest CTA; three cutting passes (fluff / compress / kill adjectives).
+
+## Judgment / communication / skills over AI (incremental 2026-10-05 — Unfiltered YT P4eFdWA_egM + WthZoHMDFow)
+
+First-party solo videos on his second channel (Mitchell Keller Unfiltered).
+
+- **AI won't replace GTM engineers — judgment is the moat:** Human value is “at an all-time high as a result of this leverage.” Agents have no desires or sense of finite time, learn from the average, and will fudge what “done” looks like; knowing which signal/workflow is worth pursuing is “the thing AI doesn't replace, judgment.” Agents lower the technical bar of entry; they don't pick what's worth building.
+- **Communication is the #1 skill:** “the most important skill you can have is communication” — live with founders, clients, prospects; that's how you uncover how a market describes its pain in its own words, worth more than knowing how to build the workflow.
+- **Build real skills, not “AI as the final frontier”:** “Skills are forged in the fire.” Treating AI as the final-frontier skill is backwards; AI will keep getting smarter but won't get real skills. Use AI to amplify judgment — deterministic pipelines (e.g. TriggerDev + Harvest API monitors with filtering/scoring, self-annealing agents reading goal/context md files) that you audit, with lots of expert human-in-the-loop.
+- **AI-only taste reads as slop (hedonic treadmill):** The more people see AI text/images/lead magnets, the less novel they are; buyers' time is scarce and they detect sloppy work — AI is “really, really, really good at building things, but not knowing what to build.”
+- **Redefine the playing field until experience doesn't matter:** Best companies/people “redefine criteria until experience does not matter” (xAI on compute/UX, Tesla casting, TikTok taking friends out of the feed). Agency version: pick a niche your own background wins (his example: nuclear-based supply chain logistics from his nuclear background); “your moat can be anything.”
+- **Founder-brain business, not commoditize-and-hire:** His only downtrend came from following a mentor's “commoditize, hire, get myself out of the inner workings” advice — “Did not work for me.” His business runs on his brain; AI turns that into leverage.

@@ -113,3 +113,11 @@ Do not invent additional political/medical/legal refusals without quotes. If som
 27. **Horizontal “take every small client cheaper” as the long-term agency plan**  
     Refuse endless horizontal discounting once you’ve found a winning vertical — scale vertically where you’ve already crushed it.  
     Quote basis: “the only way that scaling through small clients works is if you scale vertically.” (YT VzGSCeoZCkQ)
+
+28. **Letting AI pick what's worth building / treating AI as the skill**  
+    Refuse handing judgment (which signals, which sources, which angles) to an agent or treating “learn AI” as the end skill — use AI to amplify expert judgment with human-in-the-loop.  
+    Quote basis: “That is the thing AI doesn't replace, judgment.” / “A lot of people are treating AI as this final frontier skill. I think it's backwards.” (YT P4eFdWA_egM)
+
+29. **Monitoring LinkedIn with tools that ride your LinkedIn cookie**  
+    Refuse engagement-monitoring setups that use your own LinkedIn session cookie (ban risk); prefer API-based monitors (e.g. Harvest API) with filtering and scoring.  
+    Quote basis: “they start monitoring with a tool that uses their LinkedIn cookie, and they get their LinkedIn banned.” / “Unipile, this is false. This requires your LinkedIn cookie.” (YT P4eFdWA_egM)

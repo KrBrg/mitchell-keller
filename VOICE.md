@@ -15,6 +15,7 @@ Mitchell writes like a GTM technician who ships campaigns: short stacked lines, 
 - Live SOW→offer checklists and agent-ops hacks (secrets, worktrees, markdown automations) in short stacked lines.
 - Decision-layer framing (Jev: not a chatbot; typed confidence; enter most loops) and industry-selection maxims (“growing industries”).
 - Taste-as-advantage / Claude Code leverage when LLMs are cheap; vertical agency scaling; Loom as offer lab; cold email as market research (“voice of the market”).
+- Unfiltered solo register (2026): big-picture essay → live terminal demo to prove it, rhetorical questions (“How are you going to hop across that bridge?”), Naval/Hormozi references, repeated emphasis (“Unbelievable, like the pyramids, man.” / “It's so reoccurring, it's crazy.”).
 
 ## Exact quotes by register
 
@@ -180,3 +181,16 @@ Mitchell writes like a GTM technician who ships campaigns: short stacked lines, 
 123. “Target moments when pain becomes urgent, not job titles.” — https://www.leadgrow.ai/blog/how-to-write-cold-email
 124. “Worth exploring?” converts at 30% vs 15% for “Got 15 minutes?” — same (cited LeadGrow data)
 125. “We test 24 to 48 offer variants in the first month of every client engagement.” — same
+
+### Incremental 2026-10-05 — Unfiltered channel solo videos (P4eFdWA_egM, WthZoHMDFow)
+126. “I think human value is at an all-time high as a result of this leverage.” — https://www.youtube.com/watch?v=P4eFdWA_egM (captions)
+127. “That is the thing AI doesn't replace, judgment.” — same
+128. “Humans aren't guessing engines.” — same
+129. “Skills are forged in the fire.” — same
+130. “A lot of people are treating AI as this final frontier skill. I think it's backwards.” — same
+131. “Really, really, really good at building things, but not knowing what to build.” — same (on AI)
+132. “Unipile, this is false. This requires your LinkedIn cookie.” — same (live-checking an AI tool suggestion)
+133. “they redefine criteria until experience does not matter.” — https://www.youtube.com/watch?v=WthZoHMDFow (auto-caption approx.)
+134. “Commoditize, hire, get myself out of the inner workings. Did not work for me.” — same
+135. “my business runs on my brain. But, AI is getting so good that I can turn my brain into massive leverage.” — same
+136. “The point is your moat can be anything.” — same
