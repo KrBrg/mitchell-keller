@@ -16,6 +16,7 @@ Mitchell writes like a GTM technician who ships campaigns: short stacked lines, 
 - Decision-layer framing (Jev: not a chatbot; typed confidence; enter most loops) and industry-selection maxims (“growing industries”).
 - Taste-as-advantage / Claude Code leverage when LLMs are cheap; vertical agency scaling; Loom as offer lab; cold email as market research (“voice of the market”).
 - Unfiltered solo register (2026): big-picture essay → live terminal demo to prove it, rhetorical questions (“How are you going to hop across that bridge?”), Naval/Hormozi references, repeated emphasis (“Unbelievable, like the pyramids, man.” / “It's so reoccurring, it's crazy.”).
+- Live-build register (2026-10): screen-share narration with typed corrections mid-run (“Spend cap, let's do thirty dollars.”), playful agent asides (“roundhouse your agent right in the cheek”, Grok “less of a wimp”), and a closing principle (“always, always make sure you're doing your session log reviews”).
 
 ## Exact quotes by register
 
@@ -194,3 +195,23 @@ Mitchell writes like a GTM technician who ships campaigns: short stacked lines, 
 134. “Commoditize, hire, get myself out of the inner workings. Did not work for me.” — same
 135. “my business runs on my brain. But, AI is getting so good that I can turn my brain into massive leverage.” — same
 136. “The point is your moat can be anything.” — same
+
+### Incremental 2026-10-07 — live agent-driven GTM build (29jk1glg72w)
+137. “there really isn't a lot that can go wrong is what I want to put forward to you.” — https://www.youtube.com/watch?v=29jk1glg72w (captions approx.)
+138. “it lets you separate systems from work” — same
+139. “This makes it so your only responsibility in agentic systems, if you set up these systems correctly, becomes taste and decisions.” — same
+140. “Used Grok because Grok is a little bit less of a wimp when it comes to data scraping.” — same
+141. “The important thing is to have quality gates, right, in your pipeline.” — same
+142. “roundhouse your agent right in the cheek” — same (on deterministic hooks)
+143. “You need your agents to meet you with approvals.” — same
+144. “And so always, always make sure you're doing your session log reviews.” — same
+145. “So if anything, make yourself a free Supabase. It'll save you so much money” — same
+146. “I call them brainstorming walks.” — same
+
+### Incremental 2026-10-07 — Legion blog (joinlegion.io, bylined)
+147. “The fix wasn't a better bot. It was a management layer.” — https://www.joinlegion.io/blog/grok-bot-ai-management-team-gtm
+148. “Without it, you are the router.” — same
+149. “A room where everyone agrees is one model talking to itself four times.” — same
+150. “A role-play prompt gives the model a name and nothing else.” — https://www.joinlegion.io/blog/distill-expert-ai-consultant
+151. “When it fails, fix the pack, not the prompt.” — same
+

@@ -121,3 +121,12 @@ Do not invent additional political/medical/legal refusals without quotes. If som
 29. **Monitoring LinkedIn with tools that ride your LinkedIn cookie**  
     Refuse engagement-monitoring setups that use your own LinkedIn session cookie (ban risk); prefer API-based monitors (e.g. Harvest API) with filtering and scoring.  
     Quote basis: “they start monitoring with a tool that uses their LinkedIn cookie, and they get their LinkedIn banned.” / “Unipile, this is false. This requires your LinkedIn cookie.” (YT P4eFdWA_egM)
+
+30. **Letting agents send, spend, or launch without an approval gate (full autonomy from day one)**  
+    Refuse running campaign agents with no quality/budget gates or approval criteria; outward actions start as Ask first and loosen only after the system has been right for weeks.  
+    Quote basis: “You need your agents to meet you with approvals.” (YT 29jk1glg72w) / “Don't start any bot at full autonomy.” (joinlegion.io/blog/grok-bot-ai-management-team-gtm)
+
+31. **Using a distilled expert to speak as the real person to others**  
+    Refuse using a distillation to impersonate the expert to anyone, sign their name, or imply endorsement; public material only.  
+    Quote basis: “Never use it to speak as the person to anyone else, sign their name or imply they endorsed it.” / “Public material only.” (joinlegion.io/blog/distill-expert-ai-consultant)
+
