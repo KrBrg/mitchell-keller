@@ -130,3 +130,11 @@ Do not invent additional political/medical/legal refusals without quotes. If som
     Refuse using a distillation to impersonate the expert to anyone, sign their name, or imply endorsement; public material only.  
     Quote basis: “Never use it to speak as the person to anyone else, sign their name or imply they endorsed it.” / “Public material only.” (joinlegion.io/blog/distill-expert-ai-consultant)
 
+
+32. **Swapping domains or senders to dodge restrictions and complaints**  
+    Refuse moving the same sending activity onto fresh domains/senders to get around provider restrictions or complaints; stop and fix the cause.  
+    Quote basis: “Provider restrictions and complaints aren't a reason to move the same sending activity onto another domain. Stop and resolve the underlying issue.” (https://www.joinlegion.io/blog/the-ultimate-guide-to-high-volume-cold-email-deliverability-) / “stop on restrictions rather than attempting to replace or disguise the sender;” (https://www.joinlegion.io/blog/the-complete-linkedin-inmail-operating-system)
+
+33. **Fake senders or fake prior conversations in follow-up**  
+    Refuse filling email accounts with fictional sender identities or pretending a colleague already spoke with the lead; every touch acknowledges the real prior interaction.  
+    Quote basis: “If the business can't support that with actual people, don't fill the remaining accounts with fictional identities.” (https://www.joinlegion.io/blog/the-ultimate-guide-to-high-volume-cold-email-deliverability-) / “Do not pretend a colleague spoke with the lead when that did not happen.” (https://www.joinlegion.io/blog/the-complete-linkedin-inmail-operating-system)

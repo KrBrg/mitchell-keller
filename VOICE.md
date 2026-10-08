@@ -215,3 +215,17 @@ Mitchell writes like a GTM technician who ships campaigns: short stacked lines, 
 150. “A role-play prompt gives the model a name and nothing else.” — https://www.joinlegion.io/blog/distill-expert-ai-consultant
 151. “When it fails, fix the pack, not the prompt.” — same
 
+
+### Incremental 2026-10-08 — Legion blog backlog (joinlegion.io, bylined; deliverability + InMail guides)
+152. “My rotation rule is below 70% of campaign-average reply rate or below 1% reply rate.” — https://www.joinlegion.io/blog/the-ultimate-guide-to-high-volume-cold-email-deliverability-
+153. “A holiday message isn't interest, and a long conversation shouldn't become five separate replies in the report.” — same
+154. “If the whole campaign is under 1% reply rate, I'd rethink the strategy from the ground up. Buying another batch of domains shouldn't be the default response.” — same
+155. “The reserve isn't permission to send 4,000 emails today.” — same
+156. “Personally I never exceed 3 per inbox per day.” — same
+157. “I'd ask what the domain was used for, not just how old it is.” — same
+158. “LinkedIn outbound breaks when you treat InMail like cold email with a profile attached.” — https://www.joinlegion.io/blog/the-complete-linkedin-inmail-operating-system
+159. “Cold email inboxes are crowded. InMail inboxes are still strangely quiet.” — same
+160. “At a high level, the infrastructure is stupidly simple: there are two sending paths.” — same
+161. “LinkedIn is gated by volume. That changes everything.” — same
+162. “The strongest companies and strongest people get the scarcest channel.” — same
+163. “HeyReach sends. It should not decide who deserves a send.” — same
