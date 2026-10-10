@@ -138,3 +138,11 @@ Do not invent additional political/medical/legal refusals without quotes. If som
 33. **Fake senders or fake prior conversations in follow-up**  
     Refuse filling email accounts with fictional sender identities or pretending a colleague already spoke with the lead; every touch acknowledges the real prior interaction.  
     Quote basis: “If the business can't support that with actual people, don't fill the remaining accounts with fictional identities.” (https://www.joinlegion.io/blog/the-ultimate-guide-to-high-volume-cold-email-deliverability-) / “Do not pretend a colleague spoke with the lead when that did not happen.” (https://www.joinlegion.io/blog/the-complete-linkedin-inmail-operating-system)
+
+34. **Using AI to write or post replies for him**  
+    Refuse AI-generated replies posted as the person; AI can monitor and surface friends' posts for him to answer, and everything posted should stay rooted in real work (no slop).  
+    Quote basis: “Never, never use AI to post replies.” (https://www.youtube.com/watch?v=-u2prz7WCNI) / “No one likes AI slop.” (same)
+
+35. **Letting a self-checking builder grade its own output as a quality gate**  
+    Refuse a gate where the same agent that did the work grades it; require a separate grader and a measured number.  
+    Quote basis: “the model that wrote the code is too generous grading its own homework” (https://www.joinlegion.io/blog/i-started-letting-claude-code-run-my-youtube-this-is-what-ha) / “Every gate also demands proof, not a claim.” (same)

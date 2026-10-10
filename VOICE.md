@@ -229,3 +229,46 @@ Mitchell writes like a GTM technician who ships campaigns: short stacked lines, 
 161. “LinkedIn is gated by volume. That changes everything.” — same
 162. “The strongest companies and strongest people get the scarcest channel.” — same
 163. “HeyReach sends. It should not decide who deserves a send.” — same
+
+### Incremental 2026-10-10 — X catch-up (originals / replies 2026-09-22→2026-10-10)
+164. “90% of successful cold email is:” / “And then schizo-maxxing research to validate the above BEFORE pulling a single lead.” — https://x.com/MitchellKeller_/status/2105743117454311934
+165. “I am once again begging you to please take your best case study and use it to scream at your market” — https://x.com/MitchellKeller_/status/2107092984214806918
+166. “Yo if you're sending to a different country use their language” / “That is all” — https://x.com/MitchellKeller_/status/2108553124378001425
+167. “Mfers be like "fuck it I'm giving away my whole business"” — https://x.com/MitchellKeller_/status/2102876129258606683
+168. “be a lead mercenary.” — https://x.com/MitchellKeller_/status/2102808113342513664
+169. “Always remember, an idiot in motion is better than a genius at rest” — https://x.com/MitchellKeller_/status/2105377981958856848
+170. “Tell your agents what to do, not what not to do” — https://x.com/MitchellKeller_/status/2105298360210989348
+171. “Deterministic rails around your agents running your SOPs.” — same
+172. “These are states not signals” — https://x.com/MitchellKeller_/status/2105436261565767927
+173. “Tell me this shit aint op.” — https://x.com/MitchellKeller_/status/2108167496977018934
+174. “in a world of shallow slop, bring authenticity and depth.” — https://x.com/MitchellKeller_/status/2107908667299319995
+175. “Just saw a guy run a red light, turn on his left turn signal, and then switch to the right lane.” / “Never let them know your next move” — https://x.com/MitchellKeller_/status/2108507988306653445
+176. “Thankfully my years of League of Legends gaming reflexes allowed me to narrowly avoid manslaughter” — https://x.com/MitchellKeller_/status/2108521214675411213
+177. “Productivity with AI is fucked” — https://x.com/MitchellKeller_/status/2105458528286646565
+178. “Weird change to my daily work habits: I no longer have a Chrome tab open at all.” / “The focus is unmatched.” — https://x.com/MitchellKeller_/status/2108222978777354265
+179. “Almost turned my developer into a felon today” — https://x.com/MitchellKeller_/status/2108173681516216714
+180. Replies: “Raw milk money” (…/status/2108624427521069181) / “Low-key my Viking name” (…/status/2108561982626664728) / “But no I ain't emailing my homeland” (…/status/2108568828745572434)
+
+### Incremental 2026-10-10 — YT founder content system (-u2prz7WCNI; captions approx.)
+181. “Let the algorithm do the work.” — https://www.youtube.com/watch?v=-u2prz7WCNI
+182. “The important thing to remember is that if you find something interesting, someone else also finds it interesting.” — same
+183. “Never, never use AI to post replies.” — same
+184. “No one likes AI slop.” — same
+185. “your job is to be the signal in the noise.” — same
+186. “Always voice to text.” — same
+187. “Everything from Twitter feeds everything else.” — same
+
+### Incremental 2026-10-10 — Legion blog backlog (joinlegion.io, bylined; YouTube pipeline + AI SDR posts)
+188. “One-off work does not compound. It just piles up.” — https://www.joinlegion.io/blog/i-started-letting-claude-code-run-my-youtube-this-is-what-ha
+189. “A number you can check, not a word you have to trust.” — same
+190. “The grader literally cannot reach the builder's work or reasoning, so it cannot rubber-stamp them.” — same
+191. “The thing with AI copy is that you give free rain to models to say a lot that is wrong.” — https://www.joinlegion.io/blog/building-an-outbound-ai-sdr-that-isn-t-a-black-box
+192. “Happy testing.” — same
+
+### Incremental 2026-10-10 — Legion blog backlog 2 (competitor-user targeting; three GTM skills)
+193. “It's not a feature. It's a philosophy.” — https://www.joinlegion.io/blog/how-to-steal-your-competitors-customers-3-ways
+194. “The goal isn't to trash competitors.” — same
+195. “Lead with: "We work with a tool you already use."” — same
+196. “That's not analysis. That's archaeology.” — https://www.joinlegion.io/blog/3-claude-code-gtm-skills-you-can-stand-up-in-an-hour-that-wi
+197. “They're sitting on a goldmine of data and treating it like three separate piles of dirt.” — same
+198. “This stack learns.” — same
