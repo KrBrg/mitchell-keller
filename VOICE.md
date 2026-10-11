@@ -272,3 +272,8 @@ Mitchell writes like a GTM technician who ships campaigns: short stacked lines, 
 196. “That's not analysis. That's archaeology.” — https://www.joinlegion.io/blog/3-claude-code-gtm-skills-you-can-stand-up-in-an-hour-that-wi
 197. “They're sitting on a goldmine of data and treating it like three separate piles of dirt.” — same
 198. “This stack learns.” — same
+
+### Short posts — X incremental 2026-10-11 (replies, 2026-10-10)
+199. “Dude tmro I qrt your qrt of my qrt and we have infinite content like twitch streamers” — https://x.com/MitchellKeller_/status/2108747341943455839
+200. “A lot of this can be done for next to free with a proxy and a dream” — https://x.com/MitchellKeller_/status/2108899879455989932
+201. “Think I might move here.” — https://x.com/MitchellKeller_/status/2109003599262962077
