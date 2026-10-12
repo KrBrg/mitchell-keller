@@ -277,3 +277,8 @@ Mitchell writes like a GTM technician who ships campaigns: short stacked lines, 
 199. “Dude tmro I qrt your qrt of my qrt and we have infinite content like twitch streamers” — https://x.com/MitchellKeller_/status/2108747341943455839
 200. “A lot of this can be done for next to free with a proxy and a dream” — https://x.com/MitchellKeller_/status/2108899879455989932
 201. “Think I might move here.” — https://x.com/MitchellKeller_/status/2109003599262962077
+
+### Short posts — X incremental 2026-10-12 (2026-10-11)
+202. “I've just entered the AI scares me phase. Good news is I'm one of the lucky few getting disturbing leverage.” — https://x.com/MitchellKeller_/status/2109391708521681195
+203. “Study Hill climbing, loops, wakeups and state machines. Watch your quality output 10x” — https://x.com/MitchellKeller_/status/2109422880635093132
+204. “The AI one wins on average. But the top 5% of human one's out competes AI entirely because lots of people are anti AI AF when it comes to interacting with a business.” — https://x.com/MitchellKeller_/status/2109312851772862859
