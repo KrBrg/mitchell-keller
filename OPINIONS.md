@@ -340,3 +340,27 @@ First-party solo YouTube (captions approx.) and matching X thread; numbers are h
 - **List hygiene:** merge lists, dedupe contacts by LinkedIn URL and email, dedupe companies in a fixed order starting with company LinkedIn URL (“The order matters”); check the site is alive and flag domains behind aggressive email security gateways before sending; classify businesses cheaply from homepage patterns before paying for AI enrichment; send agents straight to /careers or /pricing instead of asking them to "find hiring information."
 - **Analytics engine:** most teams look at stats once a month — “That's not analysis. That's archaeology.” Flag statistical winners per email step and auto-queue single-variable split tests; watch for deliverability decay from repeated copy patterns and rotate structure and hooks.
 - **Conversation processor:** sales calls are “the most undervalued asset” — extract pain points in the prospect's own words, objections, competitors, technology; feed the most common pain point and objection back into tests and sequences. “This stack learns.”
+
+## Growing-market micro-tests / franchise close with zero case studies (incremental 2026-10-14 — YT CVQm9a_RMT4 2026-10-13)
+
+First-party solo YouTube (android auto-captions; wording approximate). Claims are his own numbers from a micro-campaign that went live ~7 days before the video.
+
+- **Use your brain on growing markets:** campaigns work when you pick businesses that are (1) growing, (2) can benefit from marketing services, and (3) get a unique take — “a way to pitch them something that they may not be seeing all the time,” inspired by other markets that benefit from the same things. Growing is “the most important.”
+- **Zero case studies can still close:** he says he closed a 100-location med spa franchise on a lead-gen package with no case studies, plus more med-spa conversations; on low volume “about one meeting per 100 people contacted, which if you don't know, is quite good.” Blue ocean framing: “It's a blue ocean out there and you guys can have it.”
+- **Micro-test volume beats perfection:** “You want to find as many of these campaign opportunities as you possibly, possibly can. By just testing. Micro tests.” Without an agentic system “you are falling behind”; he claims he can “rip out five or 10 of these in a day” after upfront research.
+- **Event-reliant B2B as a pattern:** companies overly reliant on events/booths for new accounts (high-ticket B2B preferred) as a search lens for growing markets; copy angles like opening direct conversations in-territory without a booth/partner in the middle.
+- **Prefer always-growing verticals:** healthcare, fintech, equipment — “always growing / always demand” — vs competing for the same generic SaaS; alternatively take a vertical slice of SaaS (he nods to Jordan Crawford’s methodology). “You will die with shrinking markets” (also reiterated on X the same week).
+
+## Data brokering wave / referrals / desk research (incremental 2026-10-14 — X originals 2026-10-12→2026-10-14)
+
+First-party X posts (free `x` API incremental). Tool/buyer names are his examples, not endorsements.
+
+- **Data advisors will proliferate:** “1000 data advisors are going to pop up.” He cites ~1 lead per 288 contacts on his current offer and says the next step is “to position against the market.” Teaching thread: capitalize on data brokering; “There are millions exchanging hands”; door-knockers specifically could make money; “It's a blue ocean.”
+- **Set referral expectations low-to-real:** for data-broker referrals, don't ground everyone in the high-end (“up to $2 million”); “Reverse engineer the type of data they have, the tech available to you” so expectations match what can actually clear.
+- **Desk headcount is leaked, not listed:** “Nobody lists their desk headcount. So I go find where they leaked it.” Sources: vendor case studies, job ads that name the stack, FDIC/HRSA/attorney registries; floor plans only when nothing else works; “Satellite parking is a secondary check. Never the verdict.”
+- **Long-horizon offers keep infra healthy:** comparing data-broker distro to class-action lawsuit outbound — long payoff horizon, good offer; he uses extra long-term warming infra on offers like that and rotates good offers so infra stays healthy.
+- **Agency burnout → give it away:** “Pretty burnt out from traditional agency work so plan on giving away everything I learned cause I have no plans on scaling in this biz type any longer” / “I need to pay it forward” (names free-content mentors). Still launching a community for GTM engineering from `/commands`.
+
+## Content-writing agent rules (incremental 2026-10-14 — X 2026-10-14)
+
+- **Agent content heuristics he states:** “write like you're shooting a text to your homie”; “space it out in an f pattern cause that's how eyes scan”; “reading level 7th grade or less.” Bullets can “have optional shit to keep it dynamic.”

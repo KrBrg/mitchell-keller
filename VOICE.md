@@ -282,3 +282,20 @@ Mitchell writes like a GTM technician who ships campaigns: short stacked lines, 
 202. “I've just entered the AI scares me phase. Good news is I'm one of the lucky few getting disturbing leverage.” — https://x.com/MitchellKeller_/status/2109391708521681195
 203. “Study Hill climbing, loops, wakeups and state machines. Watch your quality output 10x” — https://x.com/MitchellKeller_/status/2109422880635093132
 204. “The AI one wins on average. But the top 5% of human one's out competes AI entirely because lots of people are anti AI AF when it comes to interacting with a business.” — https://x.com/MitchellKeller_/status/2109312851772862859
+
+### Incremental 2026-10-14 — YT franchise / growing markets (CVQm9a_RMT4; captions approx.)
+205. “I've already closed one 100 location med spa franchise on a lead generation package and I'm going to walk you through the exact copy that was used because I just don't care. It's a blue ocean out there and you guys can have it.” — https://www.youtube.com/watch?v=CVQm9a_RMT4
+206. “The reason these campaigns are so obscenely successful is because I actually used my damn brain to think of offers that make sense.” — same
+207. “I looked for a set of businesses that are one, growing, two, can benefit from marketing services. Growing is the most important. And number three, I looked for a unique take on the market.” — same
+208. “You want to find as many of these campaign opportunities as you possibly, possibly can. By just testing. Micro tests. If you don't have an agentic system set up to do this, then you are falling behind.” — same
+209. “Instead of competing for the exact same SaaS companies… focus on industries that you can provide really, really bespoke opinions to and have hyper-successful campaigns within growing markets.” — same
+
+### Incremental 2026-10-14 — X data brokering / content agents (2026-10-12→2026-10-14)
+210. “I'm back to beg you to do one thing. / Go after growing and emerging markets.” — https://x.com/MitchellKeller_/status/2109634981454594550
+211. “You will die with shrinking markets” — https://x.com/MitchellKeller_/status/2109636900126371861
+212. “1000 data advisors are going to pop up. / I'm currently getting 1 lead for 288 contacts on this offer. / The next step is to position against the market.” — https://x.com/MitchellKeller_/status/2109778519110693282
+213. “I'm going to teach all of you how to capitalize on this data brokering opportunity / There are millions exchanging hands / … / It's a blue ocean” — https://x.com/MitchellKeller_/status/2110030058215911756
+214. “If you want more of your data broker REFERRALS to go through, you need to set expectations / If you send everyone that they can make up to $2 million, their expectation is now grounded in the high end” — https://x.com/MitchellKeller_/status/2110066034480672955
+215. “Nobody lists their desk headcount. So I go find where they leaked it. / Vendor case studies. Job ads that name the stack. FDIC, HRSA and attorney registries. Floor plans only when nothing else works. / Satellite parking is a secondary check. Never the verdict.” — https://x.com/MitchellKeller_/status/2110117621240881208
+216. “Extremely effective rules for content writing agents / - write like you're shooting a text to your homie / - space it out in an f pattern cause that's how eyes scan / - reading level 7th grade or less” — https://x.com/MitchellKeller_/status/2110165019094618363
+217. “Pretty burnt out from traditional agency work so plan on giving away everything I learned cause I have no plans on scaling in this biz type any longer” — https://x.com/MitchellKeller_/status/2110150464662565213
