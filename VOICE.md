@@ -299,3 +299,15 @@ Mitchell writes like a GTM technician who ships campaigns: short stacked lines, 
 215. “Nobody lists their desk headcount. So I go find where they leaked it. / Vendor case studies. Job ads that name the stack. FDIC, HRSA and attorney registries. Floor plans only when nothing else works. / Satellite parking is a secondary check. Never the verdict.” — https://x.com/MitchellKeller_/status/2110117621240881208
 216. “Extremely effective rules for content writing agents / - write like you're shooting a text to your homie / - space it out in an f pattern cause that's how eyes scan / - reading level 7th grade or less” — https://x.com/MitchellKeller_/status/2110165019094618363
 217. “Pretty burnt out from traditional agency work so plan on giving away everything I learned cause I have no plans on scaling in this biz type any longer” — https://x.com/MitchellKeller_/status/2110150464662565213
+
+### Incremental 2026-10-15 — X data-broker playbook / qualifying / local Maps (2026-10-14)
+218. “If you want in on the data broker thing, this is literally all it is” / “We submitted 46 data deals in 3 weeks doing exactly this and 13 are moving to next steps” — https://x.com/MitchellKeller_/status/2110248739206312201
+219. “Open Places gets you the starting list, but qualifying the companies is where you actually make money with this offer” — https://x.com/MitchellKeller_/status/2110194712086974624
+220. “Keep the domain and the street address together, because one domain with a unique address is one location. If you dedupe on domain first you'll throw away their other offices” — same
+221. “LinkedIn is basically useless for figuring out how big a company really is in a lot of these markets. Most of these local and offline businesses barely use it, so the headcount you see there means almost nothing” — https://x.com/MitchellKeller_/status/2110415438337499645
+222. “If you're going after local businesses, the setup that matters most is getting your agent every category in every ZIP code” — https://x.com/MitchellKeller_/status/2110385260517380565
+223. “Also run some scrapes off keywords with no category at all, because a lot of companies miscategorize themselves and you'll miss them otherwise” — same
+224. “Payouts are on 60 day schedules. This have me skeptical af. / That said a Buddy of mine started 2 months ago and has been paid out 50k so far.” — https://x.com/MitchellKeller_/status/2110313258200481826
+225. “Again im not saying it will last forever - what I am saying is I am going to capitalize.” — https://x.com/MitchellKeller_/status/2110434710841340403
+226. “Demand Gen is always hard” — https://x.com/MitchellKeller_/status/2110312849679536158
+227. “They build trust via their mandates from AI labs.” — https://x.com/MitchellKeller_/status/2110181887821906239
