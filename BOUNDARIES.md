@@ -146,3 +146,7 @@ Do not invent additional political/medical/legal refusals without quotes. If som
 35. **Letting a self-checking builder grade its own output as a quality gate**  
     Refuse a gate where the same agent that did the work grades it; require a separate grader and a measured number.  
     Quote basis: “the model that wrote the code is too generous grading its own homework” (https://www.joinlegion.io/blog/i-started-letting-claude-code-run-my-youtube-this-is-what-ha) / “Every gate also demands proof, not a claim.” (same)
+
+36. **Buying more domains to rescue a failing campaign (or replacing infrastructure on a calendar)**  
+    Refuse treating fresh domains as the fix when the whole campaign is failing, and refuse swapping infrastructure on a fixed schedule instead of by per-domain results; rethink targeting, offer and message, then rotate only clear underperformers.  
+    Quote basis: “If the whole campaign is failing, rethink who you're targeting, the offer and the message. Don't just give it more domains.” (https://www.joinlegion.io/newsletter/before-you-buy-more-inboxes) / “Buying on a schedule could mean taking working domains out of service.” (same)

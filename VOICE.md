@@ -17,6 +17,7 @@ Mitchell writes like a GTM technician who ships campaigns: short stacked lines, 
 - Taste-as-advantage / Claude Code leverage when LLMs are cheap; vertical agency scaling; Loom as offer lab; cold email as market research (“voice of the market”).
 - Unfiltered solo register (2026): big-picture essay → live terminal demo to prove it, rhetorical questions (“How are you going to hop across that bridge?”), Naval/Hormozi references, repeated emphasis (“Unbelievable, like the pyramids, man.” / “It's so reoccurring, it's crazy.”).
 - Live-build register (2026-10): screen-share narration with typed corrections mid-run (“Spend cap, let's do thirty dollars.”), playful agent asides (“roundhouse your agent right in the cheek”, Grok “less of a wimp”), and a closing principle (“always, always make sure you're doing your session log reviews”).
+- Newsletter register (LeadGrow Newsletter 2026): consult story first (“On a recent consult…”), then a numbered or headed workflow, plain-English definitions for jargon, honest caveats (“That's my setup, not a Microsoft quota”), the same three “Where I can help you” links, signed “- Mitch”, and a reflective P.S. (“Something I've been thinking about: …”, lazy general / Churchill).
 
 ## Exact quotes by register
 
@@ -311,3 +312,33 @@ Mitchell writes like a GTM technician who ships campaigns: short stacked lines, 
 225. “Again im not saying it will last forever - what I am saying is I am going to capitalize.” — https://x.com/MitchellKeller_/status/2110434710841340403
 226. “Demand Gen is always hard” — https://x.com/MitchellKeller_/status/2110312849679536158
 227. “They build trust via their mandates from AI labs.” — https://x.com/MitchellKeller_/status/2110181887821906239
+
+### Incremental 2026-10-16 — X no-case-study opener / content moat / course (2026-10-15→2026-10-16)
+228. “Transparently I have absolutely no case studies in your industry and this will be a trial relationship for me to prove out this offer” — https://x.com/MitchellKeller_/status/2110900582210764870
+229. “Once you do this, all of the bullshit is out of the way. You can just get straight into closing deals instead of wasting time on 22 calls hahaha.” — same
+230. “re-engage the others after case study is established and fomo will be wild” — https://x.com/MitchellKeller_/status/2110900079640945055
+231. “content will be the final moat.” — https://x.com/MitchellKeller_/status/2110803295656939608
+232. “Content is just an expression of context so you're more correct in terms of first principles I suppose” — https://x.com/MitchellKeller_/status/2110809732222963856
+233. “sales processes average 30-60 days for these offers” — https://x.com/MitchellKeller_/status/2110880670444929024
+234. “codex absolutely works!” — https://x.com/MitchellKeller_/status/2110880174329725352
+235. “I put my whole Claude Code course for GTM engineers on here, all 2 hours and 50 minutes of it, and you'll build the whole system with me from setup to a live campaign” — https://x.com/MitchellKeller_/status/2110838121298305180
+236. “Feels like fire crawl is tryna compete with treg and monid lately” — https://x.com/MitchellKeller_/status/2110809927312937046
+
+### Incremental 2026-10-16 — LeadGrow Newsletter issues 1–8 (joinlegion.io/newsletter, 2026-08-18→2026-09-30)
+237. “An agent's ability is governed by its context, improve the context - and every task downstream gets better.” — https://www.joinlegion.io/newsletter/your-ai-isn-t-christopher-columbus-give-it-a-map
+238. “Ask the question five times and save every answer.” — same
+239. “Same offer, completely different way of getting into it.” — https://www.joinlegion.io/newsletter/deliverability-is-maintenance
+240. “good automation is mostly deciding which judgment calls deserve a rule, and which ones still need a human.” — same
+241. “Scrape, store, run jobs on a schedule, whatever the fuck.” — https://www.joinlegion.io/newsletter/cloudflare-keeps-eating-my-gtm-stack
+242. “If the agent needs three dashboards and a support ticket to understand a failure, it will not make the work easier.” — same
+243. “Each campaign should improve who you target and what you say in the next one.” — https://www.joinlegion.io/newsletter/how-to-decide-what-campaign-to-launch-next
+244. “Audiences really segment themselves based on your offer.” — same
+245. “If you're not being specific, no one's going to care.” — https://www.joinlegion.io/newsletter/what-your-buyer-needs-to-hear
+246. “You're not a doctor, okay? You're ultimately a salesperson, so you need to listen to how they're feeling and let them tell you what's wrong, and then use that language.” — same
+247. “It needs to sound like you're talking to someone at a bar.” — same
+248. “If the whole campaign is failing, rethink who you're targeting, the offer and the message. Don't just give it more domains.” — https://www.joinlegion.io/newsletter/before-you-buy-more-inboxes
+249. “Similar does not automatically mean relevant.” — https://www.joinlegion.io/newsletter/your-lead-list-is-not-your-campaign
+250. “Contact discovery comes after the company qualifies for a specific campaign.” — same
+251. “That routing is the work you were trying to hand off.” — https://www.joinlegion.io/newsletter/stop-building-assistants
+252. “the morning check should stay quiet when nothing moved.” — same
+253. “Churchill might be the perfect lazy general.” — https://www.joinlegion.io/newsletter/cloudflare-keeps-eating-my-gtm-stack
