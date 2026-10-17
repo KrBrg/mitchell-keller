@@ -342,3 +342,22 @@ Mitchell writes like a GTM technician who ships campaigns: short stacked lines, 
 251. “That routing is the work you were trying to hand off.” — https://www.joinlegion.io/newsletter/stop-building-assistants
 252. “the morning check should stay quiet when nothing moved.” — same
 253. “Churchill might be the perfect lazy general.” — https://www.joinlegion.io/newsletter/cloudflare-keeps-eating-my-gtm-stack
+
+### Incremental 2026-10-17 — YT data broker course (yJ_KOwrRh_4; captions approx.) + X 2026-10-16
+
+254. “Listen to me. You need to lock in for the next 10 to 15 minutes” — https://www.youtube.com/watch?v=yJ_KOwrRh_4
+255. “Just feed this damn transcript to your agent at the end.” — same
+256. “No one wants to learn these skills, so you get to get outsized leverage from these skills.” — same
+257. “You want to focus on what you're positioning against more than what you're positioning with.” — same
+258. “What if it was the exit without the exit?” — same
+259. “Use a cheap vision model. ... You can get this done for 10 cents and just rip. Like absolutely rip.” — same
+260. “please, please, please ask your agent to do an MX check and remove security gateways.” — same
+261. “The biggest unlock in this one is writing your emails with their words instead of yours” — https://x.com/MitchellKeller_/status/2111110029248254110
+262. “you sound like an insider and not another vendor” — same
+263. “if you pitch $2M and they get offered $200K they feel shortchanged even on a great deal” — https://x.com/MitchellKeller_/status/2111147126550077572
+264. “Dude, I completely agree I am actively exiting the agency game” — https://x.com/MitchellKeller_/status/2111119711387693423
+265. “I crave depth” — https://x.com/MitchellKeller_/status/2111119748536959149
+266. “personally i always reverify.” — https://x.com/MitchellKeller_/status/2111111083754664442
+267. “Bro just leaked how often he washes his bed sheets and pillow cases” — https://x.com/MitchellKeller_/status/2111196517704806832
+268. “No @ENowoslawski is ragebait i stg. Luv u still tho” — https://x.com/MitchellKeller_/status/2111164594135904656
+269. “Get off X and go review Jordan Crawfords work” — https://x.com/MitchellKeller_/status/2111165432195424568
